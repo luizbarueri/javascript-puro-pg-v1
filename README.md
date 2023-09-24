@@ -1,2 +1,2 @@
-# javascript-puro-pg
-uma pagina simples com javaScript +node +  html + css + postgreSQL
+# api-workshop
+Projeto-Aula sobre API usando  express,  nodemon com node.js.
